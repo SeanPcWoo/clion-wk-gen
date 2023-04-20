@@ -1,0 +1,12 @@
+{
+  "name":"clion-wk-gen",
+  "version": "1.0.0",
+  "main": "cl-wk-gen.js",
+  "description": "generate a SylixOS Workspace Makefile for CLion",
+  "author": {
+    "name": "wupengcheng",
+    "email": "wupengcheng@acoinfo.com"
+  },
+  "license": "MIT",
+  "bin": "cl-wk-gen.js"
+}
